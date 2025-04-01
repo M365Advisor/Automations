@@ -1,4 +1,4 @@
-# M365 Bulk User & License Provisioning Script
+# 1) M365 Bulk User & License Provisioning Script
 
 A PowerShell script that automates the creation of Microsoft 365 users and assigns them licenses in bulk using a CSV file. Built to save IT admins time and avoid the repetitive clicks of the M365 Admin Center.
 
