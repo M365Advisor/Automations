@@ -1,0 +1,2 @@
+UserPrincipalName,FirstName,LastName,LicenseSku,Country,UsageLocation
+user1@example.com,John,Doe,tenant:ENTERPRISEPACK,US,US
