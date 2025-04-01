@@ -2,7 +2,7 @@
 
 Welcome to the **M365Advisor** GitHub repository — a growing collection of practical PowerShell scripts created to save time, reduce effort, and help Microsoft 365 Admins and IT pros feel like automation heroes again. 💻🧙‍♂️
 
-This project was born out of real-world frustration: constant tickets, repetitive license tasks, endless clicking in the admin center. The goal? **Make M365 and IT Admins cool again.**
+This project was born out of my reddit post and real-world frustration: constant tickets, repetitive license tasks, endless clicking in the admin center. The goal? **Make M365 and IT Admins cool again.**
 
 ---
 
