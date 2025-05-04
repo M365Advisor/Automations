@@ -79,7 +79,7 @@ I enjoy saving Microsoft 365 license costs using **technical and scientific meth
 - Removes unused buffer licenses
 - Provides actionable savings insights
 
-👉 Want to join the beta or waitlist? Email me at **harshaa@m365advisor.us** or visit [m365advisor.us](https://www.m365advisor.us)
+👉 Want to join the beta or waitlist? Email me at **info@m365advisor.us** or visit [m365advisor.us](https://www.m365advisor.us)
 
 Suggestions and feedback are always welcome. Let’s make IT admin easier, smarter, and maybe even a little fun.
 
